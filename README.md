@@ -6,7 +6,7 @@ The MLS Gold indicator for MetaTrader 5 draws the Market Lab Syndicate session z
 
 ## Download
 
-**[⬇ Download the latest version](../../releases/latest)**. Open the link and click `MLS_Gold_Indicator_B49.zip` under **Assets**.
+**[⬇ Download the latest version](../../releases/latest)**. Open the link and click `MLS_Gold_Indicator_B49a.zip` under **Assets**.
 
 ## ⚠ Browser warning when downloading
 
@@ -25,7 +25,7 @@ Only download from this official page or the Market Lab Syndicate Facebook Page.
 
 ## What's inside
 
-- `Market_Lab_Syndicate_B49.ex5`: the chart indicator (goes in `MQL5\Indicators`)
+- `Market_Lab_Syndicate_B49a.ex5`: the chart indicator (goes in `MQL5\Indicators`)
 - `Gold_Feed_Service_v1.05.ex5`: the background service that keeps the zones and insight updated (goes in `MQL5\Services`)
 - `INSTALL.txt`: step-by-step install guide
 
